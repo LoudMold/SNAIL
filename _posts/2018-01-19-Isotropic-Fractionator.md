@@ -25,13 +25,15 @@ Dr. Suzana Herculano-Houzel first summarized that Stereological methods such as 
 
 #### Benefits:
 To achieve absolute, acute, quantitative count of Neurons, Glia. Less room of human error. It can used to analyze whole brain not just slices or regions. It yields absolute cell count independent of brain volume.
-/Users/yujunchen/SNAIL/_posts/2017-07-19-highlight-test.md的副本.md
+
 ##Findings
-Rat Brain: 	1) Total of about 331.65 million cells
-2) 60% are Neurons -> More Neurons than Glia.
-		3) No correlation between brain weights and cell.
-		4) Cerebellum has 70% of Neurons, 5 times as the Cortex.
-Human Brain: 	1) 86 +/- 8 billion NeuN+ (Neurons) and about 84.6 billion Glia.
-		2) More Neurons than Glia
-		3) Cerebral Cortex contains just 19% of neurons despite size and mass.
-		4) Cerebellum has just 10% of brain mass, but 69 billion (80%) neurons.
+* Rat Brain: 	
+	1. Total of about 331.65 million cells
+	2. 60% are Neurons -> More Neurons than Glia.
+	3. No correlation between brain weights and cell.
+	4. Cerebellum has 70% of Neurons, 5 times as the Cortex.
+* Human Brain: 	
+	1. 86 +/- 8 billion NeuN+ (Neurons) and about 84.6 billion Glia.
+	2. More Neurons than Glia
+	3. Cerebral Cortex contains just 19% of neurons despite size and mass.
+	4. Cerebellum has just 10% of brain mass, but 69 billion (80%) neurons.
