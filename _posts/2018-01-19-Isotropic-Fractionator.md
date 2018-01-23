@@ -2,7 +2,7 @@
 title: Synposis - Isotropic Fractionator: A Simple, Rapid Method for the Quantification of Total Cell and Neuron Numbers in the Brain
 categories:
  - Neuroscience
-tags: Neuroscience
+tags: Isotropic-Fractionator
 ---
 
 ## Research Objectives
@@ -12,7 +12,7 @@ Developing a novel, fast, and inexpensive method to quantify total numbers of ne
 Dr. Suzana Herculano-Houzel first summarized that Stereological methods such as the optical dissector and fractionator estimates the number of cells and neurons in discrete brain regions by multiplying cell density by volume. Because of the numbers obtained are not independent, they cannot be used in statistical comparisons against volume. Then, Dr. Herculano-Houzel and his colleagues developed a novel method that can be applied to the whole brain or any dissectible region that will offer a more accurate and quantitative numbers.
 
 ## Research Methodology
-####Steps:
+#### Steps:
 1.	“Slice” preserved Brain
 2.	“Stir” (Homogenize + Centrifugate)
 3.	DAPI (DNA dye) Stain
@@ -26,7 +26,7 @@ Dr. Suzana Herculano-Houzel first summarized that Stereological methods such as 
 #### Benefits:
 To achieve absolute, acute, quantitative count of Neurons, Glia. Less room of human error. It can used to analyze whole brain not just slices or regions. It yields absolute cell count independent of brain volume.
 
-##Findings
+## Findings
 * Rat Brain: 	
 	1. Total of about 331.65 million cells
 	2. 60% are Neurons -> More Neurons than Glia.
