@@ -1,6 +1,5 @@
 ---
-title: Synposis-Isotropic Fractionator A Simple Rapid Metho
-categories:
+title: Synposis-Isotropic Fractionator':' A Simple, Rapid Method for the Quantification of Total Cell and Neuron Numbers in the Brain
  - Test
 tags:
 ---
