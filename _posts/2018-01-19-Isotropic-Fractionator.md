@@ -1,8 +1,8 @@
 ---
-title: Synposis - Isotropic Fractionator: A Simple, Rapid Method for the Quantification of Total Cell and Neuron Numbers in the Brain
+title: Highlight Test
 categories:
- - Neuroscience
-tags: Isotropic-Fractionator
+ - Test
+tags:
 ---
 
 ## Research Objectives
