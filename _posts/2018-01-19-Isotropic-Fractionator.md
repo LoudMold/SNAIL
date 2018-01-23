@@ -1,5 +1,5 @@
 ---
-title: Synposis-Isotropic Fractionatorxxxxxxxxxxxxxxxxxxxxxx
+title: Synposis-Isotropic Fractionatorxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 categories:
  - Test
 tags:
