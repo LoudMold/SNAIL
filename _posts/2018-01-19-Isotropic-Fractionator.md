@@ -1,5 +1,5 @@
 ---
-title: Synposis-Isotropic Fractionator: A Simple Rapid Metho
+title: Synposis-Isotropic Fractionator A Simple Rapid Metho
 categories:
  - Test
 tags:
