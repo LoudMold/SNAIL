@@ -1,5 +1,5 @@
 ---
-title: Synposis-Isotropic Fractionator: A Simple Rapid Method for the Quantification of Total C
+title: Synposis-Isotropic Fractionator: A Simple Rapid Metho
 categories:
  - Test
 tags:
