@@ -1,8 +1,8 @@
 ---
-title: Synposis-Isotropic Fractionator - A Simple, Rapid Method for the Quantification of Total Cell and Neuron Numbers in the Brain
+title: [SYNPOSIS] Isotropic Fractionator - A Simple, Rapid Method for the Quantification of Total Cell and Neuron Numbers in the Brain
 categories:
  - Neuroscience
-tags: Isotropic-Fractionator
+tags: Isotropic-Fractionator Cerebellum Cortex Glia Neuron Morphometry
 ---
 
 ## Research Objectives
