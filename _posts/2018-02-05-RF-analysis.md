@@ -8,7 +8,7 @@ tags: visual-cortex receptive-field neuron columnar-organization reverse-correla
 ## Research Objectives
 Characterizing the responses of neurons in a multidimensional parameter space -> evaluate the amount of redundancy within the population code -> nearby neurons may provide highly redundant signals concerning the visual scene -> Knowledge of the micro-organization of response properties within a cortical column-> important implications for population coding of visual information
 
-## Scope of the thesis work
+## Scope of the Thesis Work
 Characterizing the responses of neurons in a multidimensional parameter space -> evaluate the amount of redundancy within the population code -> nearby neurons may provide highly redundant signals concerning the visual scene -> Knowledge of the micro-organization of response properties within a cortical column-> important implications for population coding of visual information
 
 ## Research Methodology and Analysis Results
