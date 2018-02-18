@@ -1,5 +1,5 @@
 ---
-title: /SYNPOSIS/ Functional Micro-Organization of Primary Visual Cortex - Receptive Field Analysis of Nearby Neurons 
+title: /Synposis/ Functional Micro-Organization of Primary Visual Cortex - Receptive Field Analysis of Nearby Neurons 
 categories:
  - Neuroscience
 tags: visual-cortex receptive-field neuron columnar-organization reverse-correlation phase-coding
