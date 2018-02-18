@@ -1,0 +1,23 @@
+<script type="text/javascript"
+    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+## 4 Signaling within neurons: electrical properties of neuron and action potentials
+
+### The resting potential
+
+>The charge of eletric potention inside of a neuron cell is about -80mV.
+
+首先第一个问题是为什么静默时细胞膜内电压为负。根据伯恩斯坦的理论：静默时细胞膜只对钾离子有通透性，由于细胞内外钾离子浓度不同，因此两侧出现`内负外正`的电位差。当细胞受到刺激而兴奋时，细胞膜暂时失去对离子的选择性(membrane breakdown)，所以离子都能通过。
+
+通过实验可以知道细胞内外钾离子浓度不同，会引起细胞膜内外电位差的改变。但细胞内外钾离子的浓度变化不会引起细胞膜内外电位差的改变。因此说明了静默时，钾离子通道时打开的；而钠离子通道则是关闭的。
+
+> When will it achieve equilibrium state?
+
+当细胞膜内外达到平衡时，意味着电流为0.而这种平衡状态是根据化学能量和电能量来共同决定的(net flux)。其量化关系可以由`Nernst Equation`算出。
+
+
+### The Nernst Equation
+
+$$a^2 + b^2 = c^2$$
+
