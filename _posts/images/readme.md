@@ -1,1 +1,1 @@
-## images used in blogpost
+blog post images will be stored here
